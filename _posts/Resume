@@ -1,0 +1,80 @@
+---
+title: "Resume"
+date: 2026-02-05T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Skills
+  - Projects
+  - Experience
+  - Education
+---
+
+Brian Coy
+Data Scientist | Analytics Professional (270) 282-5814 | brian.coy@gmail.com Bowling Green, KY | github.com/briancoy | linkedin.com/in/briancoybg
+
+PROFESSIONAL SUMMARY
+Analytical leader with over 15 years of experience in technical operations and graduate-level training in Machine Learning and Bayesian Statistics. Proven track record of leveraging ETL, predictive modeling, and automation to drive significant business outcomes, including a 64% reduction in support volume and a 99% reduction in manual processing. Expert at translating high-dimensional data into actionable strategies for executive stakeholders.
+
+TECHNICAL SKILLS
+Programming: Python (Pandas, NumPy, Scikit-learn, PyMC), R, SQL, PowerShell.
+
+
+Modeling: Bayesian GLM, Random Forests, SVM, Neural Networks, Hidden Markov Models, PCA.
+
+
+Tools: Tableau, SQL Server, MySQL, Git, Jupyter, Matplotlib, Seaborn.
+
+
+Specialties: ETL Pipeline Architecture, Anomaly Detection, Change Point Detection, Mathematical Modeling.
+
+
+RELEVANT EXPERIENCE
+ProMAX Systems | Support Engineer II | Aug 2022 – Oct 2025
+
+ - Reduced open ticket volume by 64% within 6 months by performing exploratory data analysis to identify and resolve systemic failure patterns across 120+ incidents.
+
+
+ - Developed PowerShell automation for remote software deployment, eliminating 3–6 days of system downtime per occurrence.
+
+
+ - Engineered SQL queries and custom tables from MS SQL Server environments to support incident trend analysis and product reliability projects.
+
+
+ - Collaborated with development teams to perform root-cause analysis on software defects, directly informing product improvements.
+
+
+Kentucky Farmworker Programs | MIS Specialist (Data Analysis) | June 2021 – Apr 2022
+
+ - Eliminated 99% of paper usage and reduced client processing time by 5 days by architecting a hybrid MS Access/SQL Server system for federal compliance.
+
+
+ - Engineered automated SQL pipelines and reporting dashboards to inform workforce development strategies for program leadership.
+
+
+ - Designed data quality automation that improved the accuracy and timeliness of regulatory Department of Labor submissions.
+
+
+SELECTED PROJECTS
+Chess Fair-Play & Anomaly Detection | Lead Researcher
+
+ - Architected a Python ETL pipeline to process 12.2 million game records into a SQLite database.
+
+
+ - Validated that aggregate metrics (Accuracy vs. ELO) were insufficient for fraud detection, establishing a new framework for move-level sequential analysis.
+
+
+ - Evaluated K-Means, One-Class SVM, and Random Forest models to identify cheating patterns.
+
+
+Bayesian Hierarchical Modeling | Graduate Researcher
+
+ - Developed Bayesian GLM and hierarchical regression models using PyMC to analyze state-level disparities in US maternal health (2020-2022).
+
+
+EDUCATION
+Georgia Institute of Technology | M.S. Analytics (Computational Track) | Exp. Dec 2026  
+Western Kentucky University | B.A. Mathematics (Writing Minor) | Graduated May 2015
+Coursera | Google Data Analytics Certificate | May 2022
+
+
